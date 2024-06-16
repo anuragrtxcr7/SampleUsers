@@ -1,0 +1,39 @@
+{
+    "Users":[
+        {
+            "Id":0,
+            "Name":"Anurag Jain",
+            "Email":"jain.anurag0203@gmail.com",
+            "Contact":"9643735993",
+            "Address":"ABC sector 1 Uttar Pradesh India"
+        },
+        {
+            "Id":1,
+            "Name":"Anurag",
+            "Email":"anurag.jain.cd.che21@itbhu.ac.in",
+            "Contact":"9643735992",
+            "Address":"ABC sector 1 Madhya Pradesh India" 
+        },
+        {
+            "Id":2,
+            "Name":"Suyash Chaturvedi",
+            "Email":"suyash.chaturvedi.cd.che21@itbhu.ac.in",
+            "Contact":"9643735991",
+            "Address":"ABC sector 1 Maharashtra India" 
+        },
+        {
+            "Id":3,
+            "Name":"Pranav Nahar",
+            "Email":"pranavnahar@gmail.com",
+            "Contact":"9643735990",
+            "Address":"ABC sector 1 Tamil Nadu India" 
+        },
+        {
+            "Id":4,
+            "Name":"Vicky Tilotia",
+            "Email":"vickytilotia@gmail.com",
+            "Contact":"9643735990",
+            "Address":"ABC sector 1 Karnataka India"    
+        }
+    ]
+}
